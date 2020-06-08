@@ -1,0 +1,49 @@
+h1, .ctr {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: xx-large;
+}
+
+.tiny {
+    font-size: x-small;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.newFont {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.combo {
+    font-size: 27px;
+    font-weight: bold;
+    color: orange
+}
+
+.styledFont {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+#styledImage {
+    border: orange;
+    border-style: solid;
+    border-width: 8px;
+}
